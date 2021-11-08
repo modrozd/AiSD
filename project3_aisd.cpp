@@ -1,4 +1,4 @@
-// Project 3, AiSD 2020 - M
+// Project 3, AiSD 2020 - MAST
 // Monika Drozd
 
 #include <iostream>
